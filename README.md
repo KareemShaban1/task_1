@@ -45,6 +45,6 @@ Finally, write several test cases that assert the order was correctly stored and
 - Run __php artisan migrate --seed__ 
 - Start local server by executing __php artisan serve__ 
 - Open new terminal and navigate to the project root directory
-- OR Use Test Case class called OrderTest__ using PHPUnit
+- Use Test Case class called OrderTest__ using PHPUnit
 
 - - - - -
